@@ -1,5 +1,5 @@
-var a = 10;
-var b = 20;
+var a = 20;
+var b = 40;
 function sum(numA, numB) {
     return numA + numB;
 }
